@@ -4,3 +4,7 @@
 ZCZC W00 10 L03 GitHub related
 ZCZC W00 100 L02 ZOOM class
 ZCZC W00 5 L01 Pop Quiz SCELE
+ZCZC W00 10 L11 Assignment #1
+ZCZC W00 10 L12 Assignment #2
+ZCZC W00 10 L13 Assignment #3
+ZCZC W00 10 L14 Assignment #4
