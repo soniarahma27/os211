@@ -40,3 +40,16 @@ ZCZC W02 10 L20 Assignment #10
 ZCZC W02 10 L04 GitHub Pages: setting, etc.
 ZCZC W02 30 L01 SCELE: Pop Quiz
 ZCZC W02 30 L23 Discord: Pop Quiz
+ZCZC W03 100 L02 Zoom Class
+ZCZC W03 180 L05 GSGS related
+ZCZC W03 150 L11 Assignment #1
+ZCZC W03 60 L12 Assignment #2
+ZCZC W03 10 L13 Assignment #3
+ZCZC W03 120 L14 Assignment #4
+ZCZC W03 60 L15 Assignment #5
+ZCZC W03 15 L16 Assignment #6
+ZCZC W03 90 L17 Assignment #7
+ZCZC W03 5 L18 Assignment #8
+ZCZC W03 10 L19 Assignment #9
+ZCZC W03 150 L06 Reading References/Books/Documents
+ZCZC W03 60 L22 YouTube: study, etc.
