@@ -53,3 +53,15 @@ ZCZC W03 5 L18 Assignment #8
 ZCZC W03 10 L19 Assignment #9
 ZCZC W03 150 L06 Reading References/Books/Documents
 ZCZC W03 60 L22 YouTube: study, etc.
+ZCZC W04  30 L01 Scele : Pop Quiz
+ZCZC W04 100 L02 ZOOM
+ZCZC W04  60 L11 Assignment #1
+ZCZC W04  90 L12 Assignment #2
+ZCZC W04  25 L13 Assignment #3
+ZCZC W04 120 L14 Assignment #4
+ZCZC W04   10 L15 Assignment #5
+ZCZC W04  100 L16 Assignment #6
+ZCZC W04   5 L17 Assignment #7
+ZCZC W04   10 L18 Assignment #8
+ZCZC W04 120 L05 GSGS Related
+ZCZC W04 60 L06 Reading References/Books/Documents
