@@ -65,3 +65,13 @@ ZCZC W04   5 L17 Assignment #7
 ZCZC W04   10 L18 Assignment #8
 ZCZC W04 120 L05 GSGS Related
 ZCZC W04 60 L06 Reading References/Books/Documents
+ZCZC W05 100 L02 ZOOM : class
+ZCZC W05  60 L08 Trying something
+ZCZC W05  100 L11 Assignment #1
+ZCZC W05  30 L12 Assignment #2
+ZCZC W05 180 L13 Assignment #3
+ZCZC W05  60 L14 Assignment #4
+ZCZC W05  15 L15 Assignment #5
+ZCZC W05   10 L16 Assignment #6
+ZCZC W05  45 L23 Discord : Pop Quiz, read discussions
+ZCZC W05 60 L06 Reading References/Books/Documents
