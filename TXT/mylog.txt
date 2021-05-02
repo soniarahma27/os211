@@ -83,3 +83,11 @@ ZCZC W06 100 L13 Assignment #3
 ZCZC W06 60 L14 Assignment #4
 ZCZC W06 8  L15 Assignment #5
 ZCZC W06 10 L16 Assignment #6
+ZCZC W07 100 L02 ZOOM : class
+ZCZC W07  60 L08 Trying something
+ZCZC W07  100 L11 Assignment #1
+ZCZC W07  30 L12 Assignment #2
+ZCZC W07 180 L13 Assignment #3
+ZCZC W07  60 L14 Assignment #4
+ZCZC W07  15 L15 Assignment #5
+ZCZC W07   10 L16 Assignment #6
