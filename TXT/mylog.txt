@@ -91,3 +91,11 @@ ZCZC W07 180 L13 Assignment #3
 ZCZC W07  60 L14 Assignment #4
 ZCZC W07  15 L15 Assignment #5
 ZCZC W07   10 L16 Assignment #6
+ZCZC W08 100 L02 Zoom related
+ZCZC W08 120 L05 GSGS related
+ZCZC W08 60 L11 Assignment #1
+ZCZC W08 60 L12 Assigment #2
+ZCZC W08 200 L13 Assignment #3
+ZCZC W08 30 L14 Assignment #4
+ZCZC W08 10 L15 Assignment #5
+ZCZC W08 5 L16 Assignment #6
